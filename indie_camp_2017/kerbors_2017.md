@@ -81,6 +81,7 @@ Tel Michèle 06 37 39 26 53 (par sms)
 * Romain Heller, 1 au 4 août, [Covoiturage depuis Brest](https://github.com/LeBiome/camps/issues/20)
 * Arthur Masson, du 5 au 7 août environ, [Indiens dans la ville](http://idlv.co)
 * Quentin Orhant, du 5 au 7 août environ, [Indiens dans la ville](http://idlv.co)
+* Nicolas d'Aprigny, Nantes, du 6 au 10 août, apprenti dèv
 
 ### Thématiques à explorer
 
